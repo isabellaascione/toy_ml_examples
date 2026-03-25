@@ -1,0 +1,13 @@
+name: lorenz_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - matplotlib
+  - tensorflow
+  - scikit-learn
+  - pip
+  - pip:
+      - notebook
