@@ -18,7 +18,7 @@ git clone https://github.com/isabellaascione/toy_ml_examples.git
 cd toy_ml_examples/lorenz
 ```
 
-2. Create the Conda environment:
+2. Create the Conda environment (recommended):
 
 ```bash
 conda env create -f lorenz.yaml
@@ -63,7 +63,7 @@ Project files can be downloaded here:
 
 https://github.com/isabellaascione/toy_ml_examples.git
 
-##Use of AI 
+## Use of AI 
 
 GitHub Copilot was used to generate part of the code
 
