@@ -68,6 +68,7 @@ https://github.com/isabellaascione/toy_ml_examples.git
 GitHub Copilot was used to generate part of the code
 
 
-## Acknowledgements
-Mike Bell contributed code used in some of the notebooks, particularly the ensemble-based notebooks.
+## Contributors
+Isabella Ascione 
+Mike Bell 
 
